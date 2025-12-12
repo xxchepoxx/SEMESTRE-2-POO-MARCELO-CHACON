@@ -1,10 +1,10 @@
 # ======================================================================================================================
 print("\n" + "="*27+ " UNIVERSIDAD ESTATAL AMAZÓNICA " + "="*170 + "\n")
 print("UNIDAD I")
-print("Tarea semana 1 Técnicas de Programación (POO)")
+print("Tarea semana 2 Técnicas de Programación (POO)")
 print("DEMOSTRACIÓN DE 2 EJEMPLOS APLICANDO CADA TIPO DE TÉCNICAS DE PROGRAMACION")
 # ======================================================================================================================
-# Tarea semana 1 Técnicas de Programación (POO)
+# Tarea semana 2 Técnicas de Programación (POO)
 # ======================================================================================================================
 # SE VA A DESARROLLAS 2 EJEMPLOS APLICANDO CADA TIPO DE TÉCNICAS DE PROGRAMACION
 # TÉCNICAS DE POO: abstracción, encapsulación, herencia, polimorfismo.
