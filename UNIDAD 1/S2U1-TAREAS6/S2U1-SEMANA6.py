@@ -1,7 +1,7 @@
 # ======================================================================================================================
 print("\n" + "="*30+ " UNIVERSIDAD ESTATAL AMAZÓNICA " + "="*30 + "\n")
 print("UNIDAD I")
-print("Tarea semana 6 Tipos de datos, Identificadores")
+print("Tarea semana 6 Clases, objetos, herencia, encapsulamiento y polimorfismo")
 print("El programa ayuda a modelar animales médiente clases")
 print("representando sus características y comportamientos")
 # ======================================================================================================================
