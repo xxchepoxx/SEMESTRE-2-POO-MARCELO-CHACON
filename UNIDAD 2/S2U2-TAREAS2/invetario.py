@@ -1,3 +1,13 @@
+# ======================================================================================================================
+print("\n" + "="*27+ " UNIVERSIDAD ESTATAL AMAZÓNICA " + "="*170 + "\n")
+print("UNIDAD II")
+print("Tarea semana 2 Sistema de Gestión de Inventarios Mejorado")
+print("Sistema con varias opciones para una gestion de investario")
+# ======================================================================================================================
+# Tarea semana 2 Técnicas de Programación (POO)
+# ======================================================================================================================
+# Sistema de Gestión de Inventarios Mejorado
+# ======================================================================================================================
 """
 Sistema de Inventario
 """
