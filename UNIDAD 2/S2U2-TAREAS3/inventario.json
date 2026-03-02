@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "nombre": "Monitor asus",
+        "cantidad": 40,
+        "precio": 120.0
+    },
+    {
+        "id": "2",
+        "nombre": "Monitor Olg",
+        "cantidad": 35,
+        "precio": 90.0
+    },
+    {
+        "id": "3",
+        "nombre": "Teclado red dragon",
+        "cantidad": 24,
+        "precio": 35.0
+    },
+    {
+        "id": "4",
+        "nombre": "Mause logitech g203",
+        "cantidad": 15,
+        "precio": 20.0
+    },
+    {
+        "id": "5",
+        "nombre": "Mauses genericos",
+        "cantidad": 60,
+        "precio": 15.0
+    },
+    {
+        "id": "6",
+        "nombre": "Teclado genericos de membrana",
+        "cantidad": 70,
+        "precio": 16.0
+    }
+]
