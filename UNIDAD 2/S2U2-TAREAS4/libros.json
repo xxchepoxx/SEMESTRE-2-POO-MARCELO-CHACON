@@ -1,0 +1,51 @@
+[
+    {
+        "titulo": "Python para Principiantes",
+        "autor": "Guido Van Rossum",
+        "categoria": "Programaci\u00f3n",
+        "isbn": "1001",
+        "prestado": false
+    },
+    {
+        "titulo": "Algoritmos y Estructuras de Datos",
+        "autor": "Thomas H. Cormen",
+        "categoria": "Inform\u00e1tica",
+        "isbn": "1002",
+        "prestado": false
+    },
+    {
+        "titulo": "Inteligencia Artificial Moderna",
+        "autor": "Stuart Russell",
+        "categoria": "Tecnolog\u00eda",
+        "isbn": "1003",
+        "prestado": false
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Literatura",
+        "isbn": "1004",
+        "prestado": false
+    },
+    {
+        "titulo": "Cien A\u00f1os de Soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "categoria": "Novela",
+        "isbn": "1005",
+        "prestado": false
+    },
+    {
+        "titulo": "Clean Code",
+        "autor": "Robert C. Martin",
+        "categoria": "Programaci\u00f3n",
+        "isbn": "1006",
+        "prestado": false
+    },
+    {
+        "titulo": "Redes de Computadoras",
+        "autor": "Andrew S. Tanenbaum",
+        "categoria": "Redes",
+        "isbn": "1007",
+        "prestado": false
+    }
+]
