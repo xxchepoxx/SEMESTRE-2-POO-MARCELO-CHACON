@@ -1,8 +1,8 @@
 # ======================================================================================================================
 print("\n" + "="*27+ " UNIVERSIDAD ESTATAL AMAZÓNICA " + "="*170 + "\n")
 print("UNIDAD II")
-print("Tarea semana 4 Sistema de Gestión de Biblioteca Digital")
-print("Desarrollar un sistema para gestionar una biblioteca digital usando colecciones en POO.")
+print("Tarea semana 5 Creación de una Aplicación GUI Básica")
+print("Sistema para registrar personas en un evento y controlar pago de cuotas.")
 # ======================================================================================================================
 # Tarea semana 5 GUI con Tkinter
 # ======================================================================================================================
