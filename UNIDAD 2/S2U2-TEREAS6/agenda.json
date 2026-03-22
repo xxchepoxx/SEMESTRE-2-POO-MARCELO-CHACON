@@ -1,0 +1,27 @@
+[
+    {
+        "fecha": "2026-03-22",
+        "hora": "13:20",
+        "descripcion": "comer"
+    },
+    {
+        "fecha": "2026-03-23",
+        "hora": "09:00",
+        "descripcion": "clase de programación"
+    },
+    {
+        "fecha": "2026-03-24",
+        "hora": "15:30",
+        "descripcion": "reunión con equipo"
+    },
+    {
+        "fecha": "2026-03-25",
+        "hora": "08:00",
+        "descripcion": "hacer ejercicio"
+    },
+    {
+        "fecha": "2026-03-26",
+        "hora": "19:00",
+        "descripcion": "cena familiar"
+    }
+]
