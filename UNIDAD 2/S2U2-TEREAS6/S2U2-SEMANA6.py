@@ -4,7 +4,7 @@ print("UNIDAD II")
 print("Tarea semana 6 Creación de una Aplicación GUI Básica")
 print("Agenda Personal para gestión de eventos y tareas.")
 # ======================================================================================================================
-# Tarea semana 5 GUI con Tkinter
+# Tarea semana 6 GUI con Tkinter
 # ======================================================================================================================
 # Agenda Personal (Eventos y tareas)
 # ======================================================================================================================
